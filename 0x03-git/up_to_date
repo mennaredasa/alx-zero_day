@@ -1,1 +1,6 @@
 git fetch origin
+git pull origin
+cd
+git add .
+git commit -m
+git push
